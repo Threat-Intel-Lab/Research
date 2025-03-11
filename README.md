@@ -11,16 +11,16 @@ Welcome to **Threat Intel Lab** — a dedicated research initiative focused on *
 
 ## 🚀 About Me
 I am a **Threat Intelligence Analyst in training** with a background in:  
-- 💻 **Web Application Penetration Testing**  
-- 💀 **Bug Bounty Programs**  
-- 🧠 **Vulnerability Research**  
-- 📜 **Threat Intelligence Report Writing**  
+- **Web Application Penetration Testing**  
+- **Bug Bounty Programs**  
+- **Vulnerability Research**  
+- **Threat Intelligence Report Writing**  
 
 My mission with **Threat Intel Lab** is to build a **public repository of high-quality threat research reports** that focus on:  
-- 💀 **Web Application Exploitation**  
-- 💣 **Cloud Misconfiguration Attacks**  
-- 🔥 **Active Directory Exploitation**  
-- 💻 **Threat Hunting and Malware Analysis**  
+- **Web Application Exploitation**  
+- **Cloud Misconfiguration Attacks**  
+- **Active Directory Exploitation**  
+- **Threat Hunting and Malware Analysis**  
 
 ---
 
@@ -36,9 +36,9 @@ Below are the published Threat Intelligence Reports and Research Projects:
 
 ## 💀 Upcoming Research
 I’m currently working on several new research projects, including:
-- **Active Directory Exploitation** (Kerberoasting, Pass-the-Hash, NTDS.dit Extraction) 💻🛡
-- **Cloud Misconfiguration Attacks** (S3 Bucket Enumeration, IAM Misconfiguration) 🌩💀
-- **Threat Hunting Techniques** (Behavioral Analysis, OSINT Reconnaissance) 🔍💻
+- **Active Directory Exploitation** (Kerberoasting, Pass-the-Hash, NTDS.dit Extraction)
+- **Cloud Misconfiguration Attacks** (S3 Bucket Enumeration, IAM Misconfiguration)
+- **Threat Hunting Techniques** (Behavioral Analysis, OSINT Reconnaissance)
 
 All future research reports will be added here as new repositories
 
